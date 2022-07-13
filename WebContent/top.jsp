@@ -2,4 +2,4 @@
     pageEncoding="UTF-8"%>
 
 <a href="login.jsp">Login</a>
-<a href="Join.jsp">Join</a>
+<a href="./template.jsp?page=member">Join</a>
